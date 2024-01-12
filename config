@@ -1,0 +1,8 @@
+{
+	"target": "linux/amd64",
+	"http": "127.0.0.1:56741",
+	"workdir": "/home/aota06/GREBE/GREBE/fuzzer/workdir",
+	"kernel_obj": "/home/aota06/GREBE/linux-kernel/linux-5.7-1",
+	"syzkaller": "/home/aota06/GREBE/GREBE/fuzzer",
+	"type": "qemu"
+}
